@@ -1,6 +1,7 @@
 # InterboardSerial
 
-Connectivity between IR thermometer board and its calibration board.
+Connectivity between [IR thermometer board](https://github.com/CrouchingPanda/Thermometer) and 
+its [calibration board](https://github.com/CrouchingPanda/CalibrationBoard).
 
 The DTO is used by [SerialTransfer](https://github.com/PowerBroker2/SerialTransfer) library.
 
